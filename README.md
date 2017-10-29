@@ -21,6 +21,9 @@ What is [Cozmo](https://www.anki.com/cozmo)
 **Steps**
 
 * Install [Nix](https://nixos.org/nix/) - the purely functional package manager for Linux and macOS.
+  * Why Nix?
+    * Version managers (e.g. [Virtualenv](https://virtualenv.pypa.io/en/stable/)) oftentimes could screw the system up.
+    * [Docker for Mac can't pass through a USB device to a container](https://docs.docker.com/docker-for-mac/faqs/#can-i-pass-through-a-usb-device-to-a-container).
 * Pull this repository.
 * Go to a terminal, run below commands (inside the repository directory):
 ```shell
