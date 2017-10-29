@@ -1,6 +1,8 @@
 # CozmoSDK
 Anki’s CozmoSDK
 
+<img src="https://github.com/thyrlian/CozmoSDK/blob/master/images/cozmo.jpg?raw=true" width="256">
+
 ## About
 
 What is [Cozmo](https://www.anki.com/cozmo)
