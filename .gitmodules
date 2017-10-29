@@ -1,0 +1,3 @@
+[submodule "cozmo-python-sdk"]
+	path = cozmo-python-sdk
+	url = https://github.com/anki/cozmo-python-sdk.git
