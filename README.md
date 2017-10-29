@@ -32,5 +32,8 @@ cd cozmosdk
 # for the first time, it would download all dependencies
 # for any further trigger, it would use the cached downloads
 nix-shell
+# to run an example
+cd ../cozmo-python-sdk/examples/tutorials/01_basics/
+./01_hello_world.py
 # to quit this isolated environment, just run `exit`
 ```
