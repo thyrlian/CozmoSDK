@@ -18,6 +18,13 @@ What is [Cozmo](https://www.anki.com/cozmo)
 * USB cable
 * Computer running ***macOS*** or ***Linux***
 
+### Setup
+
+* Plug the mobile device containing the Cozmo app into your computer.
+* Open the Cozmo app on the mobile device. Make sure Cozmo is on and connected to the app via WiFi.
+* Tap on the gear icon at the top right corner to open the Settings menu.
+* Swipe left to show the Cozmo SDK option and tap the Enable SDK button.
+
 ### Steps
 
 * Install [Nix](https://nixos.org/nix/) - the purely functional package manager for Linux and macOS.
