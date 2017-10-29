@@ -9,3 +9,11 @@ What is [Cozmo](https://www.anki.com/cozmo)
 
 [Anki's Repositories](https://github.com/anki/) on GitHub
 
+## Getting Started
+
+**Prerequisites**
+
+* Cozmo hardware
+* ***iOS*** or ***Android*** device
+* USB cable
+* Computer running ***macOS*** or ***Linux***
