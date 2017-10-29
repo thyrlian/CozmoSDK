@@ -11,14 +11,14 @@ What is [Cozmo](https://www.anki.com/cozmo)
 
 ## Getting Started
 
-**Prerequisites**
+### Prerequisites
 
 * Cozmo hardware
 * ***iOS*** or ***Android*** device
 * USB cable
 * Computer running ***macOS*** or ***Linux***
 
-**Steps**
+### Steps
 
 * Install [Nix](https://nixos.org/nix/) - the purely functional package manager for Linux and macOS.
   * Why Nix?
